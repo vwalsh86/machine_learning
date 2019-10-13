@@ -67,3 +67,4 @@ Further information in relation to the basics of Jupyter Notebook can be found h
   <li>https://github.com/vigente/gerardus/wiki/Integrate-git-diffs-with-word-docx-files </li>
 </ol>
   
+#### Reminder: describe how to create jupyter notebook from the start and how to get it onto github, step by step guide for reference

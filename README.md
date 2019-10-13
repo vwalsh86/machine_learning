@@ -58,3 +58,12 @@ Further information in relation to the basics of Jupyter Notebook can be found h
   <li> https://www.anaconda.com </li>
   <li> https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html </li>
 </ul>
+
+### References for future use for jupyter notebook
+<ol>
+  <li> https://jupyter.readthedocs.io/en/latest/index.html </li>
+  <li> https://help.github.com/en/articles/working-with-jupyter-notebook-files-on-github </li>
+  <li> https://github.com/bokeh/bokeh-notebooks/blob/master/tutorial/06%20-%20Linking%20and%20Interactions.ipynb </li>
+  <li>https://github.com/vigente/gerardus/wiki/Integrate-git-diffs-with-word-docx-files </li>
+</ol>
+  

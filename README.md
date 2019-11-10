@@ -1,6 +1,6 @@
 ## README file for 'The Boston House Prices Dataset'
 <br>
-### _Module: Machine Learning and Statistics Assessment Nov 2019_
+### Module: Machine Learning and Statistics Assessment Nov 2019
 <br>
 
 ### Submitted By: Valerie Walsh - G00364748
@@ -33,7 +33,8 @@ To run Jupyter Notebook on a computer, the Python programming language needs to 
 I have Python installed already via the Anaconda package which I downloaded directly from the website.
 https://www.anaconda.com/download
 <br>
-__"While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself."__ https://buildmedia.readthedocs.org/media/pdf/jupyter/latest/jupyter.pdf
+> "While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself."
+
 <br><br>
 
 For this assignment, I chose to _clone_ my repository from Github.com to my machine. Then each time I made a contribution to my notebook, I pushed these updates to the repository on Github via the command interpreter. https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository 
@@ -73,6 +74,7 @@ Further information and user guides on Jupyter notebooks can be found here: http
 - https://jupyter.org/
 - https://www.w3schools.com/html/html_lists.asp
 - http://jupyter.org/install
+- https://buildmedia.readthedocs.org/media/pdf/jupyter/latest/jupyter.pdf
 - https://www.anaconda.com
 - https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 - https://jupyterlab.readthedocs.io/en/latest/

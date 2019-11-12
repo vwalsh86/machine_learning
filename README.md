@@ -1,10 +1,16 @@
 ## README file for 'The Boston House Prices Dataset'
 <br>
+
 ### Module: Machine Learning and Statistics Assessment Nov 2019
+
+***
+
 <br>
 
 ### Submitted By: Valerie Walsh - G00364748
 <br><br><br>
+
+***
 
 ### What is in this repository?
 I have created this repository as apart of my studies within Data Analytics. The area of research for this assignment is apart of Machine Learning.
@@ -28,6 +34,8 @@ Some examples include:
 <br>
 To begin a session with Jupyter, you call it from the command interpreter application. I am using Windows so the application I have chose to use is Command Prompt. Once called, the Jupyter Notebook is ran from within a web browser on your machine. <br>
 
+***
+
 ### How to use Jupyter Notebook
 To run Jupyter Notebook on a computer, the Python programming language needs to be installed firstly on the machine. <br>
 I have Python installed already via the Anaconda package which I downloaded directly from the website.
@@ -40,6 +48,8 @@ https://www.anaconda.com/download
 For this assignment, I chose to _clone_ my repository from Github.com to my machine. Then each time I made a contribution to my notebook, I pushed these updates to the repository on Github via the command interpreter. https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository 
 <br>
 
+***
+
 ### To run the Jupyter Notebook:
 
 1. Open the command interpreter application
@@ -48,6 +58,8 @@ For this assignment, I chose to _clone_ my repository from Github.com to my mach
 4. After a few moments, Jupyter will open and launch via a web browser where you can then interact and edit the notebook via the web application. Please be aware that Jupyter works best ran through the browsers Chrome or Firefox. 
 https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 <br>
+
+***
 
 ### How to commit a notebook to a Github repository
 
@@ -67,6 +79,8 @@ Further information and user guides on Jupyter notebooks can be found here: http
 <br>
 <br>
 
+***
+
 ### References:
 
 - https://www.scipy.org/
@@ -81,3 +95,6 @@ Further information and user guides on Jupyter notebooks can be found here: http
 - https://jupyter.readthedocs.io/en/latest/index.html 
 - https://help.github.com/en/articles/working-with-jupyter-notebook-files-on-github
 - https://guides.github.com/features/mastering-markdown/
+
+***
+***
